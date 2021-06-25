@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/react-responsive": "^8.0.2",
+    "react-burger-menu": "^3.0.6"
+  }
+}
